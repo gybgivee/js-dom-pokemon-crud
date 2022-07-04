@@ -50,3 +50,13 @@ body {
 .pokemon h2 {
   text-align: center;
 }
+a{
+  text-align: center;
+}
+a:last-child{
+
+  margin-left: 3rem;
+}
+.like:visited,.like:link{
+  color: rgb(193, 68, 89);
+}

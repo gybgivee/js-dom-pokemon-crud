@@ -3,12 +3,14 @@
     {
       "id": 1,
       "name": "Pikachu",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/220px-Pok%C3%A9mon_Pikachu_art.png"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Pok%C3%A9mon_Pikachu_art.png/220px-Pok%C3%A9mon_Pikachu_art.png",
+      "like": true
     },
     {
       "id": 2,
       "name": "Charmander",
-      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Pok%C3%A9mon_Charmander_art.png/220px-Pok%C3%A9mon_Charmander_art.png"
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a5/Pok%C3%A9mon_Charmander_art.png/220px-Pok%C3%A9mon_Charmander_art.png",
+      "like": true
     },
     {
       "id": 3,
@@ -26,9 +28,10 @@
       "id": 6
     },
     {
-      "name": "Ed",
-      "image": "sdfds",
-      "id": 7
+      "name": "Kamonchanok",
+      "image": "https://source.unsplash.com/random/",
+      "like": false,
+      "id": 10
     }
   ]
 }
